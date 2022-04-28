@@ -1,1 +1,2 @@
-Signals_and_Systems_2021_Spring_GIST
+# Signals_and_Systems_2021_Spring_GIST
+all rights reserved
